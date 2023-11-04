@@ -1,0 +1,15 @@
+body {
+    background: #ffdc77;
+    text-align: center;
+}
+
+h1 {
+    background:#74feff;
+    color:green;
+    font-family: "Lucida Handwriting";
+    text-align:center;
+}
+
+ul,ol {
+    list-style-position: inside;
+}
