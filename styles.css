@@ -8,8 +8,18 @@ h1 {
     color:green;
     font-family: "Lucida Handwriting";
     text-align:center;
+    
+}
+div {
+    width: 400px;
+    margin: auto;
 }
 
-ul,ol {
-    list-style-position: inside;
+.list {
+    background: #fafddd;
+    padding: 20px;
+}
+
+li {
+    list-style: none;
 }
